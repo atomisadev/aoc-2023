@@ -1,2 +1,3 @@
-# adventofcode-2023
-My AoC responses for 2023
+# Advent of Code 2023
+My solutions to AoC written mainly in C++, Java, and Python.
+
